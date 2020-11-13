@@ -1,0 +1,2 @@
+# Barbershop
+ individual student project
